@@ -9,3 +9,4 @@ Use code with caution.
 
 
 below is preview of how to play the game👇
+![Screenshot 2023-12-17 215600](https://github.com/Prasanyajala/adventuregame/assets/153526672/894f7896-85ff-4843-a4cf-155cc42d4b7e)
